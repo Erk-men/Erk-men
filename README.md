@@ -7,8 +7,8 @@
 Distributed systems in Rust. ML pipelines in Python. Embedded things that run offline.  
 Looking for an internship.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/SENIN-LINKEDIN-ADRESIN)
-[![Mail](https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:SENIN-MAIL-ADRESIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eneserkmen/)
+[![Mail](https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=gmail&logoColor=white)](enesfarukerkmen4@gmial.com)
 
 </div>
 
