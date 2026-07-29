@@ -1,8 +1,10 @@
+<div>center</div>
+
 # Enes Faruk Erkmen
 
 **Computer Engineering & EEE (Double Major) · Istanbul Arel University**
 
-Systems programming in C++ and Rust. Every optimization backed by measurement — perf, ASan, custom benchmarks — not assumption.
+Systems programming in C++ and Rust. Every optimization backed by measurement(perf, ASan, custom benchmarks), not assumption.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eneserkmen/) [![Mail](https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:enesfarukerkmen4@gmail.com)
 
