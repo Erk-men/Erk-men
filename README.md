@@ -47,7 +47,7 @@ Systems programming in C++ and Rust — every optimization backed by measurement
 <tr>
 <td width="50%" valign="top">
 
-### [ProjectRayTracing](https://github.com/Erk-men/ProjectRayTracing)
+### [Multithreaded-LowLatency-RayTracing-Engine](https://github.com/Erk-men/Multithreaded-LowLatency-RayTracing-Engine)
 Multithreaded C++17 ray tracer, zero external dependencies.
 
 Flat index-based BVH cut closest-hit complexity from `O(n)` to `O(log n)` — a measured **419x speedup** (9.2s → 22ms), verified against brute-force ground truth.
